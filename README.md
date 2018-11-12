@@ -15,7 +15,15 @@ Also, `pip install -r requirements.txt`
 Lots of details about the youtube api:
 https://developers.google.com/youtube/v3/getting-started
 
+### Features wanted:
+Generate audio files for all videos on page
+Ability to run behind login
+
 ### Status:
-Already implemented on 20 Oct 2018  
+
+11 November 2018  
+Started website. Have working summary statistics
+
+20 Oct 2018  
 getstats.py - pulls out the time of a youtube video from a video id  
 idhunter.py - finds all the video ids on a given page  
